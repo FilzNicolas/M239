@@ -1,11 +1,11 @@
-#Wie gross ist die Firma?
+# Wie gross ist die Firma?
 
-Unsere Firma sollte nicht sehr gross sein. Das Ziel ist es, dass die Firma um die 10 Mitarbeiter beinhalten sollte. Auch wenn die Firma nicht sehr gross ist, sollte dahinter nicht viel stehen, da wir ein doch sehr simples Produkt vermarkten werden. Wasser.
+Meine Firma ist nicht wirklich gross. Bei der Firma sollten maximal 20 Personen arbeiten. Sie ist zwar in mehrere Abteilungen aufgeteilt, jedoch besteht eine Absteilung aus höchstens 6 Personen. Der CEO zählt hier nicht dazu. Das bedeutet mit dem CEO sollten es 21 Personen sein, welche bei meiner Fiktiven Firma namens "BrockiWulle" arbeiten. 
 
-Daher ist es nicht wirklich nötig ein groses internes Team zu haben, da wir die Produktion Outsourcen wollen.
+# Wie gross ist der zu erwartende Web-Trafic?
 
-Wie gross ist der zu erwartende Web-Trafic?
-Wir erwarten einen Web-Traffic von rund 15'000 Clicks per Monat. Wir denken hier ausserdem optimistisch und nehmen an, dass unsere Produkte ein Hit sind und wir daher auf unserer Website viel Traffic haben werden.
+Die Erwartung was der Web Traffic betrifft, liegt bei folgendem Wert. Ich rechne damit, dass ca. 10'000 Mal im Monat etwas online bestellt wird.
 
-Braucht es ein Web-Mail?
-Ja, ein Web-Mail sollte vorhanden sein. Denn nur so können wir mit unseren Kunden Kontakt aufnehmen. E-Mail ist auch ein guter Weg um überhaupt auch solche Sachen wie Support anzubieten.
+# Braucht es ein Web-Mail?
+
+Ein Web-Mail Server braucht es definitiv. Denn unsere Mitarbeiter müssen ja auf irgendeine Art und Weise miteinander kommunizieren können. Auch für den Austausch mit den Kunden wird Mail benötigt. 
